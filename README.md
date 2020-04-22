@@ -1,6 +1,6 @@
 # binary_operations
 
-A binary operarions app.
+A binary operartions app.
 
 ## Getting Started
 
