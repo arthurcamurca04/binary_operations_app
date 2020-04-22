@@ -1,6 +1,6 @@
 # binary_operations
 
-A new Flutter project.
+A binary operarions app.
 
 ## Getting Started
 
